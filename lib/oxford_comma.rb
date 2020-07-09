@@ -1,4 +1,5 @@
 def oxford_comma(array)
-  if array == 2
+  if array == 2 
+    array << 
 
 end
